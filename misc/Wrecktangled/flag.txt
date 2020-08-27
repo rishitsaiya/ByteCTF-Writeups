@@ -1,0 +1,3 @@
+flag{boi_did_ya_get_irrit4tT3D}
+
+Checking diagonal at [4,34]
