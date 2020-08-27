@@ -1,7 +1,9 @@
 
 # ByteCTF-Writeups
 
-<center><h3>Team: pr0ctf</h3></center>
+<center><h3>Team: pr0ctf</h3></center> 
+
+Position: 9th/ 156 teams
 
 Link to CTF: http://bytectf.eastus.cloudapp.azure.com/
 
