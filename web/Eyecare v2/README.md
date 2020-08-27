@@ -2,7 +2,7 @@
 The main idea to find the flag is PHP vulnerability exploitation of NULL string.
 
 #### Step-1:
-We are given this link: [http://admin-bytectf.herokuapp.com/](http://admin-bytectf.herokuapp.com/)
+We are given this link: http://eyecare.byethost32.com/v2
 
 Also this image `eyecarev2.png`:
 
