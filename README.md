@@ -7,4 +7,5 @@ http://bytectf.eastus.cloudapp.azure.com/
 
 ## Category-Wise Breakdown
 
-<center><img src="https://i.ibb.co/NVwXQRF/Category-Breakdown.png" alt="Category-Breakdown" border="0"></a></center>
+<div style="text-align:center"><img src="https://i.ibb.co/NVwXQRF/Category-Breakdown.png" alt="Category-Breakdown" border="0"></div>
+
