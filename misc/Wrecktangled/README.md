@@ -33,6 +33,8 @@ When we run this as `python3 matrix.py`, we get a grid to get the flag. I have s
 #### Step-4:
 Now, according to description of challenge, I checked at (4,34) position. There if we check the diagonal, we get the flag.
 
+<img src="Flag.png">
+
 #### Step-5:
 Finally, the flag becomes:
 `flag{boi_did_ya_get_irrit4tT3D}`
