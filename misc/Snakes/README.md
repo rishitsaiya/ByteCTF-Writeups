@@ -57,7 +57,7 @@ dvmjh					m	jhu	y80	y		ni	p	oy	n
 	insiy	b	 hi 	j 				n	yuoi	bg		i	n	oj	n 	h		iol	n 	on 		l;	 	                                                                                              "S    @dyld_stub_binder Qr � r@_printf � r@_puts � r @_scanf �   _  _mh_execute_header !main %    �       �                      �                  $             *             1                            @           __mh_execute_header _main _printf _puts _scanf dyld_stub_binder       r
 ```
 
-Maybe I had to reverse it, but who cares when you got the flag. :lol:
+Maybe I had to reverse the binary file, but who cares when you got the flag. :lol:
 
 
 #### Step-4:
