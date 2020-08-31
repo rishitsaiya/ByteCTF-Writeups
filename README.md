@@ -17,14 +17,21 @@ Link to CTF: http://bytectf.eastus.cloudapp.azure.com/
 
 ### Category-Wise Breakdown
 
-<center><img src="https://i.ibb.co/NVwXQRF/Category-Breakdown.png" alt="Category-Breakdown" border="0"></center>
+<div align = "center">
+	<img src="https://i.ibb.co/NVwXQRF/Category-Breakdown.png" width="50%" />
+</div>
 
 ### Progress over CTF
+<div align = "center">
+	<img src="https://i.ibb.co/YRq9wQM/Top-10-Teams.png" width="50%" />
+</div>
 
-<center><img src="https://i.ibb.co/YRq9wQM/Top-10-Teams.png" alt="Top-10-Teams" border="0"></center>
-
-<center><img src="https://i.ibb.co/wYzHP0r/Top-10-Teams-pr0ctf.png" alt="Top-10-Teams-pr0ctf" border="0"></center>
+<div align = "center">
+	<img src="https://i.ibb.co/wYzHP0r/Top-10-Teams-pr0ctf.png" alt="Top-10-Teams-pr0ctf" width="50%" />
+</div>
 
 ### Score over CTF
 
-<center><img src="https://i.ibb.co/gPKLXrw/Score-over-Time.png" alt="Score-over-Time" border="0"></center>
+<div align = "center">
+	<img src="https://i.ibb.co/gPKLXrw/Score-over-Time.png" width="50%" />
+</div>
