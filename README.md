@@ -4,7 +4,7 @@
 ByteCTF 2020 - The 3<sup>rd</sup> edition of ByteCTF, India's first CTF by and for High School students. Organized by Byte Club.
 
 <div align = "center">
-	<h3>Team: pr0ctf</h3> <br>
+	<h3>Team: pr0ctf</h3>
 	<h3>Position: 9th/ 156 teams</h3>
 </div>
 
